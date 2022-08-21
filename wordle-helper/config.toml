@@ -1,0 +1,10 @@
+DICT_FILE = "words.dict"
+WORD_LENGTH = 7
+NO_LETTERS = ["f", "u", "t", "r", "s", "d", "p", "l", "a"]
+
+[GUESSED_LETTERS]
+e = 1
+y = 7
+
+[ERR_POS_LETTERS]
+n = [2]
